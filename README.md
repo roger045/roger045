@@ -1,9 +1,11 @@
 ---
-Hi! My name is Roger👋
+<h1>Hi! My name is Roger👋</h1>
 ---
+<h2>Marine ecosystems modeller 🌊🐋</h2>
 
-## About me 👨‍💻
-I am a marine ecologist with a strong passion for uncovering the secrets of the oceans and the species that inhabit them. 🌊🐟 I am particularly fascinated by large pelagic species such as tunas, billfishes, sharks, and cetaceans. 🦈🐋 I also love learning about fishing. 🎣
+### About me 👨‍💻
+I am a marine ecologist fascinated by large pelagic species such as tunas, billfishes, and sharks 🦈. I am also very interested in both artisanal and industrial fishing, and their effects on ecosystems, people, and the economy🎣.
+- I'm a PhD candidate in the basque country ![image](https://github.com/user-attachments/assets/186998f1-8675-4514-85f7-d8824a3d0491)
 
 ## Habilities
 
