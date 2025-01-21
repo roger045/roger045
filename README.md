@@ -1,9 +1,5 @@
 ---
-title: Hi! My name is Roger👋"
-output: 
-  github_document:
-    toc: true
-    toc_depth: 2
+#Hi! My name is Roger👋"
 ---
 
 ## About me 👨‍💻
