@@ -3,7 +3,7 @@
 
 <h2>Marine ecosystems modeller 🌊🐋</h2>
 
-## I'm currently working on the ECOTUN-II project ![ECOTUN_logo_Roger_Amate](https://github.com/user-attachments/assets/9675968f-eff2-4575-b625-3ceed6992fa8)
+## I'm currently working on the ECOTUN-II project <img src="https://github.com/user-attachments/assets/9675968f-eff2-4575-b625-3ceed6992fa8" alt="ECOTUN_logo_Roger_Amate" width="506" height="141">
 
 ### About me 👨‍💻
 I am a marine ecologist fascinated by large pelagic species such as tunas, billfishes, and sharks 🦈. I am also very interested in both artisanal and industrial fishing, and their effects on ecosystems, people, and the economy🎣.
