@@ -3,14 +3,14 @@
 
 <h2>I'm a marine ecosystems modeller 🌊🐋</h2>
 
-### I'm currently working on the ECOTUN-II project
+### I'm currently working on the ECOTUN-II project:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9675968f-eff2-4575-b625-3ceed6992fa8" alt="ECOTUN_logo_Roger_Amate" width="506" height="141">
 
 
 ### About me 👨‍💻
 I am a marine ecologist fascinated by large pelagic species such as tunas, billfishes, and sharks 🦈. I am also very interested in both artisanal and industrial fishing, and their effects on ecosystems, people, and the economy🎣.
-- 📝 I’m a PhD candidate currently working on crating an _Ecopath with Ecosim_(https://ecopath.org/) model of the oceanic pelagic ecosystem of the tropical Indian ocean.
+- 📝 I’m a PhD candidate currently working on crating an _Ecopath with Ecosim_ (https://ecopath.org/) model of the oceanic pelagic ecosystem of the tropical Indian ocean.
 - 🌱 I’m currently learning how to produce a better fitting of the Ecosim model.
 - 😋 I speak catalan, spanish, english, and I'm currently learning basque. 
 - My main hobbys are running 🏃‍♂, cycling🚴‍♂️, swimming🏊‍♂️, cooking👨‍🍳, hiking🏔️, go to the sea🏝️, and learn about fishing🎣
