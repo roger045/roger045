@@ -1,7 +1,7 @@
 
 <h1>Hi! My name is Roger👋</h1>
 
-<h2>I'm a marine ecosystems modeller 🌊🐋</h2>
+<h2>I'm a marine ecosystem modeller 🌊🐋</h2>
 
 ### I'm currently working on the ECOTUN-II project:
 <p align="center">
